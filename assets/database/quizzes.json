@@ -1,0 +1,34 @@
+[
+    {
+        "title": "Perguntas",
+        "questionAnsewered": 1,
+        "imagem": "heart",
+        "level": "facil",
+        "questions": [
+        {"title": "Qual mes?", 
+            "awnsers": [
+                        {"title": "dezembro"},
+                        {"title": "Janeiro"},
+                        {"title": "outubro"},
+                        {"title": "não sei","isRight": true}
+            ]
+        },
+        {"title": "datas", 
+            "awnsers": [
+                        {"title": "10/2/2021"},
+                        {"title": "10/1/2022"},
+                        {"title": "10/2/2022"},
+                        {"title": "10/1/2021","isRight": true}
+            ]
+        },
+        {"title": "testes?", 
+            "awnsers": [
+                        {"title": "sim"},
+                        {"title": "não"},
+                        {"title": "não lembro"},
+                        {"title": "sim,","isRight": true}
+            ]
+        }
+        ]
+    }
+]
